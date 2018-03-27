@@ -15,7 +15,8 @@ public class DataDifTest {
 
 
             new Thread(dataDifRunnable).run();
-            2222
+            22222;
+            1111;
         }
 
     }
